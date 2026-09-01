@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/alex-vincent1854/alex-vincent1854/raw/main/KIROKAZE.gif" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/alex-vincent1854/alex-vincent1854/main/banner.png" width="100%" alt="Banner"/>
 </p>
